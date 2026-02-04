@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://skogmo.dev/'
 languageCode = 'en-gb'
 title = '~/skogmo'
 theme = 'hello-friend-ng'
