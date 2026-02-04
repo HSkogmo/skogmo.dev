@@ -3,3 +3,8 @@ languageCode = 'en-gb'
 title = '~/skogmo'
 theme = 'hello-friend-ng'
 
+[params.footer]
+  bottomText = [
+      "Content licensed under <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY 4.0</a>."
+  ]
+
